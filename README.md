@@ -1,6 +1,6 @@
  <h1 align=center style="color:#fe428e;">🎂 Aopa, sou o Luciano Roberto. 🎂</h1>
 
-    <div style="display: block; width: 100%; height: 30px;">
+  <div style="display: block; width: 100%; height: 30px;">
         <a href="https://github.com/Luciano749">
             <img width="30" height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg"
@@ -25,8 +25,8 @@
                 alt="react">
         </a>
     </div>
-
-    <div>
+    
+     <div>
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api?username=Luciano749&theme=radical" />
         </a>
@@ -36,6 +36,9 @@
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano749&theme=radical" />
         </a>
     </div>
+    
+    
+  
 
 <!--
 **Luciano749/Luciano749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
