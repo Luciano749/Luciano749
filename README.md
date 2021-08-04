@@ -43,7 +43,13 @@
   </a>
  </div>
  
- <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+ <hr>
+ 
+ <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes"> </div>
+ 
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
 
     
     
