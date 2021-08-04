@@ -1,4 +1,4 @@
-<h1 text-align=center>🎂 Aopa, sou o Luciano Roberto. 🎂</h1>
+<h1 align=center>🎂 Aopa, sou o Luciano Roberto. 🎂</h1>
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
