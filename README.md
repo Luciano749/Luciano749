@@ -26,16 +26,7 @@
         </a>
     </div>
     
-     <div>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=Luciano749&theme=radical" />
-        </a>
-
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img height="195px"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano749&theme=radical" />
-        </a>
-    </div>
+ 
     
     
   
