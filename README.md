@@ -1,11 +1,11 @@
 ### 🎂 Aopa, sou o Luciano Roberto. 🎂
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Luciano749"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Luciano749theme=radical"/>
   </a>
   
    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano749&theme=radical&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano749&theme=radical"/>
    </a>
 </div>
 
