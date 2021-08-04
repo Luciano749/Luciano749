@@ -1,6 +1,6 @@
  <h1 align=center style="color:#fe428e;">🎂 Aopa, sou o Luciano Roberto. 🎂</h1>
 
-  <div>
+  <div style="display:flex; justify-content:space-around;">
             <img width="30" height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg"
                 alt="html">
