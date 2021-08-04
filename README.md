@@ -1,5 +1,7 @@
  <h1 align="center" style="color:#fe428e;"> AOPA, SOU LUCIANO ROBERTO,PRAZER </h1>
  
+  <br>
+ 
  <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
    <img src="https://github-readme-stats.vercel.app/api?username=Luciano749&theme=radical" />
@@ -21,15 +23,19 @@
  <hr>
  
  <div align="center">
+ 
   <p>👨‍🎓 Sou um dev front-end em aprendizado 👨‍🎓</p>
   <p>🎂 16 anos de idade 🎂</p>
-  <p>🏠 Moro em Uberlândia-MG �</p>
+  <p>🏠 Moro em Uberlândia-MG 🏠</p>
+ 
+  <br>
  </div>
  
  <hr>
  
  <div align="center">
   <h2 align="center">Entre em contato comigo:</h2>
+  <br>
  
   <a href="mailto:lucianoroberto671@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
