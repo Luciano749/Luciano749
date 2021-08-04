@@ -1,6 +1,14 @@
  <h1 align=center style="color:#fe428e;">🎂 Aopa, sou o Luciano Roberto. 🎂</h1>
-
-  <div>
+      <div>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=Luciano749&theme=radical" />
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img height="195px"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano749&theme=radical" />
+        </a>
+    </div>
+     <div>
             <img width="50" height="60"
                 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg"
                 alt="html">
@@ -14,17 +22,6 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg"
                 alt="react">
     </div>
-      <div>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=Luciano749&theme=radical" />
-        </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img height="195px"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano749&theme=radical" />
-        </a>
-    </div>
- 
-    
     
   
 
