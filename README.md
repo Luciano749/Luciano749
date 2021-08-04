@@ -1,5 +1,5 @@
- <h1 align=center style="color:#fe428e;">🎂 Aopa, sou o Luciano Roberto. 🎂</h1>
-      <div>
+ <h1 align="center" style="color:#fe428e;">🎂 Aopa, sou o Luciano Roberto. 🎂</h1>
+      <div align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api?username=Luciano749&theme=radical" />
         </a>
