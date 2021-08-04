@@ -4,9 +4,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Luciano749"/>
   </a>
   
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano749&theme=gradient"/>
-  </a>
+   </a>
 </div>
 
 
