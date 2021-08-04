@@ -43,7 +43,13 @@
   </a>
  </div>
  
+ <br>
+ <br>
+ 
  <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes"> </div>
+ 
+  <br>
+  <br>
  
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
