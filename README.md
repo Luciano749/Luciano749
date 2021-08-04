@@ -14,7 +14,7 @@
   <img width="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg"                       alt="react">
  </div>
  <hr>
- <div align="center">
+ <div align="center" style="display:flex; flex-direction:column;">
   -👨‍🎓 Sou um dev front-end em aprendizado 👨‍🎓
   -🎂 16 anos de idade 🎂
   -🏠 Moro em Uberlândia-MG 🏠
