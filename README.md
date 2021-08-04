@@ -1,6 +1,6 @@
  <h1 align=center style="color:#fe428e;">🎂 Aopa, sou o Luciano Roberto. 🎂</h1>
 
-  <div style="display: block; width: 100%; height: 30px;">
+  <div>
         <a href="https://github.com/Luciano749">
             <img width="30" height="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg"
