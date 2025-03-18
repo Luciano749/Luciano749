@@ -24,8 +24,8 @@
  
  <div align="center">
  
-  <p>👨‍🎓 Sou um dev front-end em aprendizado 👨‍🎓</p>
-  <p>🎂 18 anos de idade 🎂</p>
+  <p>👨‍🎓 Sou um dev web cem aprendizado 👨‍🎓</p>
+  <p>🎂 20 anos de idade 🎂</p>
   <p>🏠 Moro em Uberlândia-MG 🏠</p>
  
   <br>
