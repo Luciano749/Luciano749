@@ -24,8 +24,8 @@
  
  <div align="center">
  
-  <p>👨‍🎓 Sou um dev web cem aprendizado 👨‍🎓</p>
-  <p>🎂 20 anos de idade 🎂</p>
+  <p>👨‍🎓 DEV WEB 👨‍🎓</p>
+  <p>🎂 21 anos de idade 🎂</p>
   <p>🏠 Moro em Uberlândia-MG 🏠</p>
  
   <br>
